@@ -17,6 +17,6 @@ Interests: Computer Vision, TinyML (Tiny Machine Learning) and Embedded Systems.
 </div>
 <h3>GitHub Stats</h3>
 <div align="center">
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lhjundi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lhjundi&layout=compact&langs_count=7&theme=dark"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hikazudani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hikazudani&layout=compact&langs_count=7&theme=dark"/>
 </div>
