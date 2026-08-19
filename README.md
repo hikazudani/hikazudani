@@ -4,7 +4,7 @@ Software Engineering and Data Science Student
 
 I am an undergraduate student in Software Engineering at IFSP (Federal Institute of São Paulo), São Carlos, Brazil, where I study software engineering concepts and applications, as well as other technologies that can contribute to society.
 
-I hold an MBA in Data Science and Analytics from ESALQ-USP and a Bachelor's degree in Civil Engineering. Currently, I am a technology resident working on a project at the Equatorial Group focused on defect classification in insulators and tilt measurement using computer vision.
+I hold an MBA in Data Science and Analytics from ESALQ-USP and a Bachelor's degree in Civil Engineering. Currently, I am pursuing a Bachelor's in Software Engineering and working as an Artificial Intelligence Technology Resident at SiDi."
 
 ---
 
